@@ -30,9 +30,20 @@
 * 滚动歌词
 * 兼容移动端
 
-# 赞助
-微信：<img src="http://www.chengfeilong.com/img/skPlayer/wx.jpg">
-支付宝：<img src="http://www.chengfeilong.com/img/skPlayer/zfb.jpg">
+# Demo Music
 
-# 最后
-感谢[@yangyang](https://github.com/yy584089958)朋友兼同事的支持。
+This project includes several demo tracks for demonstration purposes.
+
+| Title | Artist | License |
+|------|------|------|
+| Signal to Noise | Scott Buckley | CC BY 4.0 |
+| Beautiful Oblivion | Scott Buckley | CC BY 4.0 |
+| In Dreams | Scott Buckley | CC BY 4.0 |
+
+Music by Scott Buckley
+
+https://www.scottbuckley.com.au/library/
+
+Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+https://creativecommons.org/licenses/by/4.0/

@@ -118,30 +118,31 @@
     </div>
     <script src="./dist/skPlayer.min.js"></script>
     <script>
+        const songs = [
+            {
+                title: "Signal to Noise",
+                artist: "Scott Buckley",
+                cover: "demo/cover/signal-to-noise.jpg",
+                music: "demo/music/signal-to-noise.mp3"
+            },
+            {
+                title: "Beautiful Oblivion",
+                artist: "Scott Buckley",
+                cover: "demo/cover/beautiful-oblivion.jpg",
+                music: "demo/music/beautiful-oblivion.mp3"
+            },
+            {
+                title: "In Dreams",
+                artist: "Scott Buckley",
+                cover: "demo/cover/in-dreams.jpg",
+                music: "demo/music/in-dreams.mp3"
+            }
+        ];
         var player = new skPlayer({
             autoplay: true,
             music: {
                 type: 'file',
-                source: [
-                    {
-                        name: '前前前世',
-                        author: 'RADWIMPS',
-                        src: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
-                        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.jpg'
-                    },
-                    {
-                        name: '光るなら',
-                        author: 'Goose house',
-                        src: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.mp3',
-                        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg'
-                    },
-                    {
-                        name: 'トリカゴ',
-                        author: 'XX:me',
-                        src: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
-                        cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg'
-                    }
-                ]
+                source: songs
             }
         });
     </script>
