@@ -1,5 +1,5 @@
 # skPlayer 3.0
-![npm](https://img.shields.io/npm/v/skplayer.svg) ![npm](https://img.shields.io/npm/l/skplayer.svg) ![npm](https://img.shields.io/npm/dt/skplayer.svg) ![npm](https://img.shields.io/badge/made%20by-Scott-orange.svg)  
+![npm](https://img.shields.io/npm/v/skplayer.svg) ![npm](https://img.shields.io/npm/l/skplayer.svg) ![npm](https://img.shields.io/npm/dt/skplayer.svg) ![npm](https://img.shields.io/badge/made%20by-Felix-orange.svg)  
 一款简约好看的HTML5音乐播放器
 
 # 特点
